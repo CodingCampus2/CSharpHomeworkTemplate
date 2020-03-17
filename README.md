@@ -1,7 +1,7 @@
 # Task 0
 
 ## Prerequisites:
-Read Chapter __5__ of .NET Book Zero
+Read Chapter __0__ of .NET Book Zero
 
 ## Description:
 Description of the context and inputs.
