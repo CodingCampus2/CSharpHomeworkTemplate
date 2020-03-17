@@ -1,7 +1,4 @@
-# CSharpHomeworkTemplate
-
-## Task
-
-### Taskname
+# Task
+## Taskname
 
 TaskDescription
